@@ -6,8 +6,6 @@ Anti Snooping browser extension for Google meet, Zoom Meetings Web App and Slack
 ## What led to this? 🤔
 Somewhere in March 2020, COVID-19 struck the world rendering it motionless and with heavy losses and yada-yada, yes you know what happens after the entire "one man had to eat a bat soup" incident. The point we would like to stress is the rise of work from home culture it brought up.
 
-![WFH Culture](screenshots/wfh.jpeg)
-
 Folks are working from home more, correct?
 *But are folks working from home with an extended safety of privacy?* Not really. 
 
@@ -41,28 +39,16 @@ To illustrate the use of each case, allow us to walk you through a story
 
 *You get a meeting link from work, some client is threatening to go to a competitor and you gotta hop in the call quickly, you get the link and are getting ready for the call.*
 
-![Entry](screenshots/entry2.png)
-
 *With this extensions **"Entry/Exit"** feature, your client's identity is secured. Now you get in the call and check out the participants of the call one by one all by yourself.*
-
-![Blurred Partners](screenshots/blurPart.png)
 
 *and now you hover over the people to unblur them one by one, read who is it who was joined and voila! **Participants** came in handy.*
 
-![Unblurred Partners](screenshots/unblurPart.png)
-
 *Your client pinged in angrily with his quotation complaints, all of them are blurred, thanks to our **Messages** toggle which came in handy thankfully, all you gotta do is hover to the prize.*
-
-![Blurred Message](screenshots/blurMessage.png)
-![Unblurred Message](screenshots/unblurMessage.png)
 
 *You need help, immediately so you call in your alter ego to handle the situation, but don't want others to know who is hopping in the call? Our extension is out for rescue*
 
-![Entry message](screenshots/entry.png)
 
 *BEEP BEEP BEEP* 🚨
 
 
 *A couple of folks are passing through looking at your screen wondering what the hell are you upto, spitting out numbers in that prime fashion and trying to read who all are in the meeting. Toggle **Video** on to deal with this situation* 😉
-
-![All Black](screenshots/completeBlur.png)
