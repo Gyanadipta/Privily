@@ -1,10 +1,10 @@
 # Privily
 
-## Too Long, Didn't read? 👍
-Anti Snooping browser extension for Google meet, Zoom Meetings Web App and Slack which blurs everything improtant to save your privacy in public and unblurs them on hovering.
+## Description
+Anti Snooping browser extension for Google meet, Zoom Meetings Web App and Slack which blurs everything important to save your privacy in public and unblurs them on hovering.
 
 ## What led to this? 🤔
-Somewhere in March 2020, COVID-19 struck the world rendering it motionless and with heavy losses and yada-yada, yes you know what happens after the entire "one man had to eat a bat soup" incident. The point we would like to stress is the rise of work from home culture it brought up.
+Somewhere in March 2020, COVID-19 struck the world rendering it motionless and with heavy losses. Led to rise of work from home culture.
 
 Folks are working from home more, correct?
 *But are folks working from home with an extended safety of privacy?* Not really. 
@@ -21,10 +21,10 @@ Imagine a scenario where...
 - Your friends does something extremely hilarious which well, you probably won't show your folks
 
 Now, you can't really change people can you? 
-**But you can definitely change your meeting** ❤️
+**But you can definitely change your meeting**
 
 ## The solution 👩‍🏫
-**Privily**, A browser extension which blurs out sensitive information zones in the video calling webapps and reveals them on hovering. see? simple!
+**Privily**, A browser extension which blurs out sensitive information zones in the video calling webapps and reveals them on hovering. 
 
 ## How to setup? ⚙️
 1. Download the source code and go to your browser's extension tools. (Mozilla / Chrome / Brave Tested)
@@ -34,7 +34,7 @@ Now, you can't really change people can you?
 5. Turn on the main toggle manually by clicking (The toggle next to "Hide Me") or Hit "Alt + Y" to turn on the extension!
 6. Focus on meeting without any worries. ✌️
 
-## Story Time! 📖💤 
+## Story Time! 📖
 To illustrate the use of each case, allow us to walk you through a story
 
 *You get a meeting link from work, some client is threatening to go to a competitor and you gotta hop in the call quickly, you get the link and are getting ready for the call.*
@@ -51,4 +51,4 @@ To illustrate the use of each case, allow us to walk you through a story
 *BEEP BEEP BEEP* 🚨
 
 
-*A couple of folks are passing through looking at your screen wondering what the hell are you upto, spitting out numbers in that prime fashion and trying to read who all are in the meeting. Toggle **Video** on to deal with this situation* 😉
+*A couple of folks are passing through looking at your screen wondering what the hell are you upto, spitting out numbers in that prime fashion and trying to read who all are in the meeting. Toggle **Video** on to deal with this situation*
