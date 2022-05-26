@@ -33,22 +33,3 @@ Now, you can't really change people can you?
 4. Select `src/` and let it load.
 5. Turn on the main toggle manually by clicking (The toggle next to "Hide Me") or Hit "Alt + Y" to turn on the extension!
 6. Focus on meeting without any worries. ✌️
-
-## Story Time! 📖
-To illustrate the use of each case, allow us to walk you through a story
-
-*You get a meeting link from work, some client is threatening to go to a competitor and you gotta hop in the call quickly, you get the link and are getting ready for the call.*
-
-*With this extensions **"Entry/Exit"** feature, your client's identity is secured. Now you get in the call and check out the participants of the call one by one all by yourself.*
-
-*and now you hover over the people to unblur them one by one, read who is it who was joined and voila! **Participants** came in handy.*
-
-*Your client pinged in angrily with his quotation complaints, all of them are blurred, thanks to our **Messages** toggle which came in handy thankfully, all you gotta do is hover to the prize.*
-
-*You need help, immediately so you call in your alter ego to handle the situation, but don't want others to know who is hopping in the call? Our extension is out for rescue*
-
-
-*BEEP BEEP BEEP* 🚨
-
-
-*A couple of folks are passing through looking at your screen wondering what the hell are you upto, spitting out numbers in that prime fashion and trying to read who all are in the meeting. Toggle **Video** on to deal with this situation*
